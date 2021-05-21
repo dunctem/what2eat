@@ -1,0 +1,29 @@
+{
+  "name": "what2eat",
+  "version": "1.0.0",
+  "description": "What2eat is an application for restaurant owners enabling them to easily offer a contact-free digital menu for customers. That can also open the door to interactivity opportunities that only the digital world can offer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunctem/what2eat.git"
+  },
+  "keywords": [
+    "restaurant",
+    "food",
+    "menu",
+    "covid"
+  ],
+  "author": "Jon Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunctem/what2eat/issues"
+  },
+  "homepage": "https://github.com/dunctem/what2eat#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "light-server": "^2.9.1"
+  }
+}
